@@ -33,7 +33,7 @@ line1:
     .asciz  "One small computer\n"
 
 line2:
-    .asciz  "Takes instructions and does things\n"
+    .asciz  "Can execute instructions\n"
 
 line3:
     .asciz  "Raspberry Pi 3\n"
