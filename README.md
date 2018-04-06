@@ -17,3 +17,8 @@ professional, and are easy to read. Use the
 [Markdown Guide](https://guides.github.com/features/mastering-markdown/), and
 have fun! :octocat:
 
+# Kimberly Zhang
+# Status: Complete
+# Compilation instructions: gcc -o piku piku.s
+#                           ./piku
+# Issues: None
